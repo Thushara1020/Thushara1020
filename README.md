@@ -25,7 +25,7 @@ Colombo University accredited by Sri Lanka.>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br><p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Thushara1020&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Thushara1020&theme=chartreuse-dark"></p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**My working tools...**
 
