@@ -16,16 +16,29 @@
 experience is currently taking a Bachelor of Software Engineering degree at the
 Colombo University accredited by Sri Lanka.>
 
+<h3 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tushara1020&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thushara1020&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Thushara1020&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
 
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br><p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Thushara1020&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Thushara1020&theme=chartreuse-dark"></p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**My working tools...**
 
@@ -57,6 +70,6 @@ Colombo University accredited by Sri Lanka.>
 </p>
 
 ---
-Credit: [Thushara0415](https://github.com/Thushara0415)
+Credit: [Thushara1020](https://github.com/Thushara1020)
 
 Last Updated On: 2024/08/07
