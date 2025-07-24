@@ -75,6 +75,6 @@ Colombo University accredited by Sri Lanka.</p>
 </p>
 ---
 ---
-Credit: [Thushara1020](https://github.com/Thushara1020)
+Credit: Thushara1020
 
 Last Updated On: 20245/07/23
