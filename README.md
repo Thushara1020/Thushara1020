@@ -1,4 +1,5 @@
- <p align="center"><img src="animation.gif" width="35%"></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center"><img src="animation.gif" width="20%"></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Thushara+Bhawantha+%3C3;I'+am+a+2nd+yr+Undergraduate+at+UOC;I'+am+a+Software+Engineer;Welcome+to+my+profile+!">
@@ -14,11 +15,10 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me ....**
 <p>An adept undergraduate with a commendable academic history and substantial
 experience is currently taking a Bachelor of Software Engineering degree at the
-Colombo University accredited by Sri Lanka.>
+Colombo University accredited by Sri Lanka.</p>
 <br>
 <br>
- 
-<br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
  
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -64,17 +64,18 @@ Colombo University accredited by Sri Lanka.>
 
 
 
-### :link: &nbsp;Connect with me
+---
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-Thushara.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thushara-bawantha-42091b2a9/"><img src="https://img.shields.io/badge/-Thushara%20Bhawantha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="thusharabawantha2001@gmail.com"><img src="https://img.shields.io/badge/-thusharabawantha2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="(https://www.instagram.com/thushara_bhawantha_/)"><img src="https://img.shields.io/badge/-thushara.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-thushara-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/kaveendinethma](https://www.linkedin.com/in/thushara-bhawantha-42091b2a9/)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="[https://stackoverflow.com/users/22345746/kaveen-dinethma](https://stackoverflow.com/users/26323692/thushara-bawantha-thushaa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="[https://fb.com/kaveen dinethma](https://web.facebook.com/thushara.bawantha.7)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="[https://www.instagram.com/kavee_dineth/](https://www.instagram.com/thushara_bhawantha/)" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
 ---
+---
 Credit: [Thushara1020](https://github.com/Thushara1020)
 
-Last Updated On: 2024/08/07
+Last Updated On: 20245/07/23
