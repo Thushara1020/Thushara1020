@@ -68,10 +68,13 @@ Colombo University accredited by Sri Lanka.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[https://linkedin.com/in/kaveendinethma](https://www.linkedin.com/in/thushara-bhawantha-42091b2a9/)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="[https://stackoverflow.com/users/22345746/kaveen-dinethma](https://stackoverflow.com/users/26323692/thushara-bawantha-thushaa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="[https://fb.com/kaveen dinethma](https://web.facebook.com/thushara.bawantha.7)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="[https://www.instagram.com/kavee_dineth/](https://www.instagram.com/thushara_bhawantha/)" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="[https://linkedin.com/in/kaveendinethma](https://www.linkedin.com/in/thushara-bhawantha-42091b2a9/)" target="blank"><img align="center" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg](https://linkedin.com/in/kaveendinethma](https://www.linkedin.com/in/thushara-bhawantha-42091b2a9/)" alt="kaveendinethma" height="50" width="50" /></a>
+ 
+<a href="[https://stackoverflow.com/users/22345746/kaveen-dinethma](https://stackoverflow.com/users/26323692/thushara-bawantha-thushaa)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg](https://stackoverflow.com/users/22345746/kaveen-dinethma](https://stackoverflow.com/users/26323692/thushara-bawantha-thushaa)" alt="kaveen-dinethma" height="50" width="50" /></a>
+
+<a href="[https://fb.com/kaveen dinethma](https://web.facebook.com/thushara.bawantha.7)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://fb.com/kaveen dinethma](https://web.facebook.com/thushara.bawantha.7))" alt="kaveen dinethma" height="50" width="50" /></a>
+
+<a href="[https://www.instagram.com/kavee_dineth/](https://www.instagram.com/thushara_bhawantha/)" target="blank"><img align="center" src="[https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png"](https://www.instagram.com/kavee_dineth/](https://www.instagram.com/thushara_bhawantha/) alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
 ---
