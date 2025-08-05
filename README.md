@@ -59,7 +59,7 @@ Colombo University accredited by Sri Lanka.</p>
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
+<a href="https://www.linkedin.com/in/thushara-bhawantha-42091b2a9/" target="_blank">
   <img align="center" alt="https://www.linkedin.com/in/thushara-bhawantha-42091b2a9/" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/_DHANOLA" target="_blank">
