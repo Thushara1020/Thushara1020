@@ -21,30 +21,143 @@ Colombo University accredited by Sri Lanka.</p>
 
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**My working tools...**
+<!-- ========================= SKILLS SECTION ========================= -->
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+## 🚀 My Evolving Skillset
+
+<br/>
+
+<div align="center">
+<table align="center" width="100%">
+<tr>
+
+<!-- ========================= FRONTEND ========================= -->
+
+<td valign="top" width="25%">
+<h2 align="center">Frontend</h2>
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=threejs" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mui" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=sass" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=electron" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="48"/>
+</td>
+</tr>
+</table>
+</td>
+
+<!-- ========================= BACKEND ========================= -->
+
+<td valign="top" width="25%">
+<h2 align="center">Backend</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=express" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=python" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=java" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=spring" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=php" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=c" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td></tr>
+</table>
+</td>
+
+<!-- ========================= DATABASE ========================= -->
+
+<td valign="top" width="25%">
+<h2 align="center">Database</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=redis" /></td></tr>
+<tr><td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
+</td><td></td></tr>
+</table>
+</td>
+
+<!-- ========================= DEVOPS ========================= -->
+
+<td valign="top" width="25%">
+<h2 align="center">DevOps & Testing</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=netlify" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=playwright" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=linux" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=git" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=aws" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=gcp" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=bash" /></td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<br/>
 
 
- <h1 align = "center">
-    <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Thushara1020&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushara1020&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
 
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushara1020&theme=dark_title" height="190px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushara1020&theme=dark_title" height="190px" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushara1020&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=ffffff" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thushara1020&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=ffffff" height="180px" />
+</p>
 
 
 
