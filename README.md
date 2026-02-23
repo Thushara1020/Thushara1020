@@ -148,19 +148,6 @@ Colombo University accredited by Sri Lanka.</p>
 
 ## 📊 GitHub Activity & Stats
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thushara1020&theme=dark_title" height="190px" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thushara1020&theme=dark_title" height="190px" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushara1020&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=ffffff" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thushara1020&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=ffffff" height="180px" />
-</p>
-
-
-
  <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
