@@ -22,126 +22,105 @@ Colombo University accredited by Sri Lanka.</p>
  
 
 <!-- ========================= SKILLS SECTION ========================= -->
-
-## 🚀 My Evolving Skillset
-
-<br/>
+<h2 align="center">🚀 Tech Stack & Skills</h2>
+<p align="center"><em>Constantly learning and evolving with modern technologies.</em></p>
 
 <div align="center">
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
 <!-- ========================= FRONTEND ========================= -->
-
-<td valign="top" width="25%">
-<h2 align="center">Frontend</h2>
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center"><img src="https://skillicons.dev/icons?i=threejs" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mui" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center"><img src="https://skillicons.dev/icons?i=sass" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=electron" /></td><td></td>
-</tr>
-<tr>
-<td></td><td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="48"/>
-</td>
-</tr>
+<td valign="top" width="25%" align="center">
+<h3>✨ Frontend</h3>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+  </tr>
 </table>
 </td>
 
 <!-- ========================= BACKEND ========================= -->
-
-<td valign="top" width="25%">
-<h2 align="center">Backend</h2>
-
-<table align="center">
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=express" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=python" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=java" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=spring" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=php" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=c" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td></tr>
+<td valign="top" width="25%" align="center">
+<h3>⚙️ Backend & Mobile</h3>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
+  </tr>
 </table>
 </td>
 
 <!-- ========================= DATABASE ========================= -->
-
-<td valign="top" width="25%">
-<h2 align="center">Database</h2>
-
-<table align="center">
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=redis" /></td></tr>
-<tr><td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
-</td><td></td></tr>
+<td valign="top" width="25%" align="center">
+<h3>🗄️ Database & Cloud</h3>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="Oracle" />
+    </td>
+  </tr>
 </table>
 </td>
 
 <!-- ========================= DEVOPS ========================= -->
-
-<td valign="top" width="25%">
-<h2 align="center">DevOps & Testing</h2>
-
-<table align="center">
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=netlify" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=playwright" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=linux" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=git" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=aws" /></td><td></td></tr>
-<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=gcp" /></td></tr>
-<tr><td align="center"><img src="https://skillicons.dev/icons?i=bash" /></td><td></td></tr>
+<td valign="top" width="25%" align="center">
+<h3>🛠️ DevOps & Tools</h3>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+  </tr>
 </table>
 </td>
+
 </tr>
 </table>
 </div>
-
-<br/>
 <br/>
 
 
